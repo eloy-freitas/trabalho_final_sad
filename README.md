@@ -7,8 +7,8 @@ Dataset escolhido: https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-b
 - [X] Com base no nicho/base escolhido, o grupo deverá refletir sobre quais "perguntas" podem ser realizadas na base de dados para gerar "respostas" que apoiem a tomada de decisão de um usuário (ou grupo de usuários) que precisa analisar tais dados. 
 
     Perguntas criadas:
-    - quais países concentram os maiores salarios?
-    - qual a distribuição de empregos por raca?
+    - quais países concentram os maiores salários?
+    - qual a distribuição de empregos por raça?
     - qual é a média salarial por faixa etária?
     - quais são os cargos que demandam mais anos de experiência?
     - quais são os empregos mais bem pagos?
